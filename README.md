@@ -2,7 +2,7 @@
 Este repositório oferece uma interface simples para que usuários do app TronAccess, desenvolvido por TronAccess Tecnologia, possam solicitar a exclusão de suas contas e dados pessoais conforme exigido pelas políticas da Google Play e da LGPD.
 
 🔗 Página de exclusão
-Acesse: https://Cezar125.github.io/tronaccess-suporte/excluir-conta.html
+Acesse: https://cezar125.github.io/tronaccess-suporte/excluir-conta.html
 
 🧾 Etapas para solicitar a exclusão
 Informe seu nome de usuário no campo indicado
