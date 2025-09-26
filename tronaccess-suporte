@@ -1,31 +1,11 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Exclusão de Conta - TronAccess</title>
-  <style>
-    body { font-family: Arial, sans-serif; padding: 20px; background-color: #f9f9f9; }
-    .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-    h2 { color: #333; }
-    label, input, button { display: block; width: 100%; margin-top: 10px; }
-    button { background-color: #d9534f; color: white; border: none; padding: 10px; cursor: pointer; }
-    button:hover { background-color: #c9302c; }
-    .info { font-size: 14px; color: #555; margin-top: 15px; }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h2>Solicitação de Exclusão de Conta</h2>
-    <form action="https://tron-smartportao.onrender.com/processar-exclusao" method="POST">
-      <label for="usuario">Nome de usuário:</label>
-      <input type="text" id="usuario" name="usuario" required>
-      <button type="submit">Solicitar Exclusão</button>
-    </form>
-    <div class="info">
-      Após o envio, o administrador do TronAccess irá processar sua solicitação em até 7 dias úteis.<br>
-      Serão excluídos: identificadores, URLs cadastradas e credenciais.<br>
-      Dados técnicos anônimos podem ser mantidos por segurança.
-    </div>
-  </div>
-</body>
-</html>
+<section style="font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px;">
+  <h2>🗑️ Exclusão de Conta – TronAccess</h2>
+  <p>Este serviço permite que usuários do app <strong>TronAccess</strong>, desenvolvido por <strong>TronAccess Tecnologia</strong>, solicitem a exclusão de suas contas e dados pessoais conforme exigido pelas políticas da <strong>Google Play</strong> e da <strong>LGPD</strong>.</p>
+
+  <h3>📧 Solicitação por E-mail</h3>
+  <p>Para solicitar a exclusão da sua conta e dados pessoais, envie um e-mail para:</p>
+  <p style="font-size: 1.2em;"><strong>tronsmartportao@gmail.com</strong></p>
+  <p>No corpo do e-mail, informe seu <strong>nome de usuário</strong> e escreva que deseja <strong>excluir sua conta</strong>.</p>
+  <p>O administrador processará sua solicitação em até <strong>7 dias úteis</strong>, conforme as diretrizes da LGPD e da Google Play.</p>
+</section>
+
